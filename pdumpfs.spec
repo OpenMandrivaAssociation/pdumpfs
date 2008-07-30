@@ -1,6 +1,6 @@
 Name:           pdumpfs
 Version:        1.3
-Release:        %mkrel 2
+Release:        %mkrel 4
 Summary:        Daily backup system which preserves every daily snapshot 
 Group:          File tools
 License:        GPL
