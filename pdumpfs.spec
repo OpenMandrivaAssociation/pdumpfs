@@ -4,7 +4,7 @@ Release:        %mkrel 5
 Summary:        Daily backup system which preserves every daily snapshot 
 Group:          File tools
 License:        GPL
-URL:            http://namazu.org/~satoru/pdumpfs/
+URL:            https://namazu.org/~satoru/pdumpfs/
 Source0:        %{name}-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-root
 BuildRequires:  ruby-devel 
