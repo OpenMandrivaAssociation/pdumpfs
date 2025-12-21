@@ -7,6 +7,7 @@ License:        GPL
 URL:            https://namazu.org/~satoru/pdumpfs/
 Source0:        %{name}-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-root
+BuildRequires:	make
 BuildRequires:  ruby-devel 
 BuildArch:      noarch
 
